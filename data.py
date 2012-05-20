@@ -57,6 +57,7 @@ USERNAMES = {
 		'sidi' : {'login' : 'sids-aquarius'},
 		'squiddy' : {'login' : 'squiddy'},
 		'totycro' : {'login' : 'totycro'},
+		'TunnelWicht' : {'login' : 'TunnelWicht'},
 		'wentam' : {'login' : 'wentam'},
 		}
 
@@ -69,7 +70,6 @@ UNKNOWN = {
 		'terwarf' : {'login' : ''},
 		'tuempl' : {'login' : ''},
 		'Juarrox' : {'login' : ''},
-		'TunnelWicht' : {'login' : ''},
 		'Iankap99' : {'login' : ''},
 		'raymond' : {'login' : ''},
 		'dario' : {'login' : ''},
