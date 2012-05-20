@@ -41,6 +41,7 @@ USERNAMES = {
 		'kili' : {'login' : 'stubb'},
 		'kinshuksunil' : {'login' : 'kinshuksunil'},
 		'Kiryx' : {'login' : 'kiryx'},
+		'LinuxDonald' : {'login' : 'LinuxDonald'},
 		'manuel' : {'login' : 'manuelm'},
 		'MasterofJOKers' : {'login' : 'MasterofJOKers'},
 		'mbivol' : {'login' : 'mihaibivol'},
@@ -65,7 +66,6 @@ USERNAMES = {
 UNKNOWN = {
 		'AyCe' : {'login' : ''},
 		'dauerflucher' : {'login' : ''},
-		'LinuxDonald' : {'login' : ''},
 		'Manthus' : {'login' : ''},
 		'terwarf' : {'login' : ''},
 		'tuempl' : {'login' : ''},
