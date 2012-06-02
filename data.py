@@ -29,6 +29,7 @@ MILESTONES = { # assign temporary, unique ID for each milestone
 USERNAMES = {
 		'Andre' : {'login' : 'AndreR'},
 		'Andre_Re' : {'login' : 'AndreR'},
+		'catpig' : {'login' : 'steffen123'},
 		'christoph' : {'login' : 'siccegge'},
 		'christoph_debian' : {'login' : 'siccegge'},
 		'court-jus' : {'login' : 'court-jus'},
@@ -72,6 +73,7 @@ USERNAMES = {
 		'squiddy' : {'login' : 'squiddy'},
 		'teraquendya' : {'login' : 'teraquendya'},
 		'totycro' : {'login' : 'totycro'},
+		'tuempl' : {'login' : 'tuempl'},
 		'TunnelWicht' : {'login' : 'TunnelWicht'},
 		'UnknownScribe' : {'login' : 'DanielStephens'},
 		'wentam' : {'login' : 'wentam'},
@@ -82,7 +84,6 @@ UNKNOWN = {
 		'dauerflucher' : {'login' : ''},
 		'Manthus' : {'login' : ''},
 		'terwarf' : {'login' : ''},
-		'tuempl' : {'login' : ''},
 		'Juarrox' : {'login' : ''},
 		'Iankap99' : {'login' : ''},
 		'raymond' : {'login' : ''},
