@@ -5,6 +5,44 @@ STATES = { # translate trac terminology to GH issues
 		'closed': 'closed',
 		}
 
+LABELS = {# merge some priority classes and components we only used rarely.
+		# Set target label to '' and it will be removed from the label list for GH.
+		# Default behavior is to keep all priority, component, type labels and lowercase them.
+		'Code:AI': 'gamelogic',
+		'Code:Combat': 'gamelogic',
+		'SoC: Combat': 'gamelogic',
+		'Code:Network': 'gamelogic',
+		'Code:Game': 'gamelogic',
+		'Code:Editor': 'editor',
+		'Gui': 'gui',
+		'Code:Interface': 'gui',
+		'Engine-related': 'fife',
+		'Scenarios / Campaigns': 'scenarios',
+		'Sounds / Music': 'audio',
+		'Wiki': 'website',
+		'Website / Wiki': 'website',
+
+		'blocker': 'blocker!',
+		'critical': 'important',
+		'important': 'important',
+		'milestone feature': 'important',
+		'major': '', # none
+		'minor': '', # none
+		'trivial': '', # none
+
+		'Unspecified': '', # none
+		'Management': '', # none
+		'meta-ticket': '', # none
+		'spam': '', # none
+		'task': '', # none
+
+		'opinion': 'enhancement',
+		'start': 'starter',
+
+		'': '',
+		'': '',
+		}
+
 MILESTONES = { # assign temporary, unique ID for each milestone
 		'Future': 0,
 		'2008.0': 1,
