@@ -26,6 +26,7 @@ MILESTONES = { # assign temporary, unique ID for each milestone
 
 # map reporter and comment author names to either GH account {'login': username}
 # or email address {'email': email@ddress) (only if GH account exists for that mail)
+DEFAULT_USER = {'login' : 'unknown-horizons'}
 USERNAMES = {
 		'Andre' : {'login' : 'AndreR'},
 		'Andre_Re' : {'login' : 'AndreR'},
@@ -33,6 +34,7 @@ USERNAMES = {
 		'christoph' : {'login' : 'siccegge'},
 		'christoph_debian' : {'login' : 'siccegge'},
 		'court-jus' : {'login' : 'court-jus'},
+		'desophos' : {'login' : 'desophos'},
 		'enno4uh' : {'login' : 'enno4uh'},
 		'eoc' : {'login' : 'ChrisOelmueller'},
 		'greyghost' : {'login' : 'GreyGhost'},
