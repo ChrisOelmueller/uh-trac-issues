@@ -69,6 +69,7 @@ DEFAULT_USER = {'login' : 'unknown-horizons'}
 USERNAMES = {
 		'Andre' : {'login' : 'AndreR'},
 		'Andre_Re' : {'login' : 'AndreR'},
+		'Beliar' : {'login' : 'Beliaar'}, # yes, two 'a'
 		'catpig' : {'login' : 'steffen123'},
 		'christoph' : {'login' : 'siccegge'},
 		'christoph_debian' : {'login' : 'siccegge'},
