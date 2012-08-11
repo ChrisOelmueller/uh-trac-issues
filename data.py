@@ -39,9 +39,6 @@ LABELS = {# merge some priority classes and components we only used rarely.
 		'opinion': 'enhancement',
 		'start': 'starter',
 		'defect': 'bug',
-
-		'': '',
-		'': '',
 		}
 
 MILESTONES = { # assign temporary, unique ID for each milestone
